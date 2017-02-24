@@ -1,0 +1,15 @@
+{
+  "name": "js-lesson-reduce",
+  "version": "0.0.1",
+  "description": "a little learnin' exercise with javascript",
+  "main": "",
+  "directories": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "author": "bkco",
+  "license": "ISC"
+}
